@@ -1,4 +1,4 @@
-# CSC413 Neural Networks and Deep Learning
+# CSC413 - Neural Networks and Deep Learning
 **<h1>Concepts Introduced</h1>>**
 
 <h2>Lab 1</h2>
